@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About
+title: echo "$USER"
 ---
 
 I am Yassir Laaouissi, a (currently) 19 years old Forensic IT student.
-I like blue and red teaming, soccer (Ajax Amsterdam is my favorite club) and games ![See steam here](https://steamcommunity.com/id/kladblokje).
+I like blue and red teaming, soccer (Ajax Amsterdam is my favorite club) and games.
 Eitherway I am trying do document my adventures for later reference and the enjoyment of the public.
 My profiles/contact details:
 - ![HackTheBox](https://www.hackthebox.eu/home/users/profile/52766)
