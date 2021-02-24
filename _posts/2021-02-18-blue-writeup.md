@@ -3335,4 +3335,4 @@ C:\Windows\system32>
 
 
 ```
-I am root, nice/ I hat ethe fact that all these easy machines require some form of metasploit. It kinda is not allowed on OSCP. 3/10 not a complex box.
+I am root, nice/ I hate the fact that all these easy machines require some form of metasploit. It kinda is not allowed on OSCP. 3/10 not a complex box.
