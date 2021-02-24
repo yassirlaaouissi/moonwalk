@@ -107,11 +107,11 @@ Lets just work with the things I have.
 
 I decided to jump straight into exploitation since I had a severe lack of brainactivity during this box. Found [this](https://github.com/its-arun/Werkzeug-Debug-RCE) exploit and this was the result:
 
-
+```
 root@kali:/home/kali/Desktop/HTB/machines/scriptkiddie# python werkzeug.py 10.129.96.25:5000 whoami
 /usr/share/offsec-awae-wheels/pyOpenSSL-19.1.0-py2.py3-none-any.whl/OpenSSL/crypto.py:12: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
 [-] Debug is not enabled
-
+```
 
 Same problem with MSF:
 
