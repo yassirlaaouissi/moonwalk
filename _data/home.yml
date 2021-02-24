@@ -5,9 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: http://www.abhinav.co
-
 project_entries:
   - title: Project 1
     url: overview-post
@@ -62,14 +59,11 @@ old_project_entries:
     highlight: archived
 
 footer_entries:
-  - title: abhinav's homepage
-    url: http://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Yassir's homepage
+    url: http://yassirlaaouissi.github.io
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/yassirlaaouissi
 
   - title: feed
     url: feed.xml
