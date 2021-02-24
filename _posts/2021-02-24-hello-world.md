@@ -15,4 +15,4 @@ I have made some additions to the already existing Kali Linux VMware image. My V
 
 ## HackTheBox
 
-Basicly I have two weeks before I start the PWK/OSCP course. In which I decided to purchase VIP+ subscription on HackTheBox and do some personalized Machines. Maybe i'll take some machines from VulnHub or do a CTF along the way in these 2 weeks. The machines I will own are described below. I will be avoiding tools like metasploit and some enum automators to prepare myself for the scenario that is required at the actual OSCP exam.
+Basicly I have two weeks before I start the PWK/OSCP course. In which I decided to purchase VIP+ subscription on HackTheBox and do some personalized Machines. Maybe i'll take some machines from VulnHub or do a CTF along the way in these 2 weeks. The machines I will own are described in future blog posts. I will be avoiding tools like metasploit and some enum automators to prepare myself for the scenario that is required at the actual OSCP exam.
