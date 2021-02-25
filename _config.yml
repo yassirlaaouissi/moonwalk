@@ -1,6 +1,6 @@
 title: Yassir | Blog
 author: Yassir Laaouissi
-url: https://yassirlaaouissi.github.io/cd6d7758d86d846f05053e35fe2ef71eb12106c5 # root address of the site
+url: https://yassirlaaouissi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   A juicy cyber securityblog :)
 permalink: /:slug.html
