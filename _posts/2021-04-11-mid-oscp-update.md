@@ -2,7 +2,6 @@
 layout: post
 title: "Mid OSCP Update"
 ---
-# Mid OSCP Update
 
 Hello ladies and gentleman, today I decided to do an update on how the PWK/OSCP is going. I just finished 11 boxes which are part of the Offensive Security PWK learning path (https://help.offensive-security.com/hc/en-us/articles/360050473812). They seemed easier then I thought, maybe it was because I had some HackTheBox experience beforehand, maybe not. I made notes on those machines, but unfortunately I may not share them. Though I may give tips without spoiling the bunch. So feel free to reach out to me.
 
