@@ -26,7 +26,7 @@ PORT   STATE SERVICE VERSION
 |_    Form action: #
 ```
 
-![image-20210501111926748](../_screenshots/image-20210501111926748.png)
+![image-20210501111926748](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501111926748.png)
 
 ```
 Summary   : nginx[1.14.2], JQuery, Script, HTML5, Email[jane@untitled.tld], HTTPServer[nginx/1.14.2]
