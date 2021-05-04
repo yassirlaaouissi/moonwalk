@@ -10,7 +10,7 @@ I started of reverting the machine, and then ran my self made script https://git
 
 ## Enumeration summary
 
-![image-20210503082453122](../_screenshots/image-20210503082453122.png)
+![image-20210503082453122](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503082453122.png)
 
 
 ```
@@ -257,7 +257,7 @@ kali@kali:~/Desktop/DownloadedScripts$
 
 Lol lets spawn a shell and we have initial foothold:
 
-![image-20210503085841038](../_screenshots/image-20210503085841038.png)
+![image-20210503085841038](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503085841038.png)
 
 ```
 cat /etc/passwd
@@ -286,7 +286,7 @@ brucetherealadmin:x:1000:1000::/home/brucetherealadmin:/bin/bash
 
 I would like to do PE, but SE Linux is probably enabled:
 
-![image-20210503091105856](../_screenshots/image-20210503091105856.png)
+![image-20210503091105856](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503091105856.png)
 
 So I have to find a way to execute shell scripts while SE linux is on. Lets enumerate:
 
