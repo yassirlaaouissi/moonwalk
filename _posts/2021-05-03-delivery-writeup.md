@@ -59,7 +59,7 @@ Summary   : nginx[1.14.2], JQuery, Script, HTML5, Email[jane@untitled.tld], HTTP
 |_    Content-Length: 0
 ```
 
-![image-20210501112515956](../_screenshots/image-20210501112515956.png)
+![image-20210501112515956](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501112515956.png)
 
 ```
 /images               (Status: 301) [Size: 185] [--> http://10.129.139.154/images/]
@@ -84,35 +84,35 @@ Added delivery to /etc/hosts:
 
 Found this:
 
-![image-20210501121706688](../_screenshots/image-20210501121706688.png)
+![image-20210501121706688](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501121706688.png)
 
 So I tried to get an .htb email address. And I noticed that if you submit a ticket in the helpdesk you get a .htb email address.
 
-![image-20210501121956530](../_screenshots/image-20210501121956530.png)
+![image-20210501121956530](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501121956530.png)
 
 After submitting the ticket you get a .htb email:
 
-![image-20210501122021937](../_screenshots/image-20210501122021937.png)
+![image-20210501122021937](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501122021937.png)
 
 That is the moment you go to mattermost and create a mattermost account with it:
 
-![image-20210501123320701](../_screenshots/image-20210501123320701.png)
+![image-20210501123320701](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501123320701.png)
 
 The confirmation link will be placed in the support ticket:
 
-![image-20210501123401536](../_screenshots/image-20210501123401536.png)
+![image-20210501123401536](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501123401536.png)
 
 Enter the link and log in. There you go:
 
-![image-20210501123516670](../_screenshots/image-20210501123516670.png)
+![image-20210501123516670](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501123516670.png)
 
 More straight forward cant be from here:
 
-![image-20210501123743864](../_screenshots/image-20210501123743864.png)
+![image-20210501123743864](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501123743864.png)
 
 and this:
 
-![image-20210501123813041](../_screenshots/image-20210501123813041.png)
+![image-20210501123813041](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501123813041.png)
 
 SSH and you've got user. Lets do some linpeas:
 
@@ -165,7 +165,7 @@ MariaDB [mattermost]>
 
 A bit of hashcat will reveal the password "PleaseSubscribe!21" for this hash. Aka we root:
 
-![image-20210501130401880](../_screenshots/image-20210501130401880.png)
+![image-20210501130401880](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210501130401880.png)
 
 ## Final thoughts
 
