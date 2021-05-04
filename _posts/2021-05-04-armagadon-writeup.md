@@ -12,6 +12,7 @@ I started of reverting the machine, and then ran my self made script https://git
 
 ![image-20210503082453122](../_screenshots/image-20210503082453122.png)
 
+
 ```
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
   <title>Welcome to  Armageddon |  Armageddon</title>
