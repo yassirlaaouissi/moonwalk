@@ -108,15 +108,15 @@ PORT      STATE         SERVICE      REASON              VERSION
 
 Started added spectra to hosts. And enumerating the bunch:
 
-![image-20210503114454943](/home/kali/.config/Typora/typora-user-images/image-20210503114454943.png)
+![image-20210503114454943](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503114454943.png)
 
 Lol this is ez access to the database:
 
-![image-20210503115823669](/home/kali/.config/Typora/typora-user-images/image-20210503115823669.png)
+![image-20210503115823669](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503115823669.png)
 
 Connection did not work. Though administrator:devteam01 worked on wp-admin:
 
-![image-20210503121114245](/home/kali/.config/Typora/typora-user-images/image-20210503121114245.png)
+![image-20210503121114245](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503121114245.png)
 
 Used this to create a reverse shell: https://github.com/kylepott/Conwell-Quotes
 
@@ -372,11 +372,11 @@ You have write privileges over /etc/init/test6.conf
 
 The test.conf files can be run as sudo by initctl. And we can edit them because they are for our group. Aka lets spawn a shell in test.conf:
 
-![image-20210503145110605](/home/kali/.config/Typora/typora-user-images/image-20210503145110605.png)
+![image-20210503145110605](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503145110605.png)
 
 And run it as root:
 
-![image-20210503145157522](/home/kali/.config/Typora/typora-user-images/image-20210503145157522.png)
+![image-20210503145157522](https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi.github.io/master/_screenshots/image-20210503145157522.png)
 
 ```
 d44519713b889d5e1f9e536d0c6df2fc
