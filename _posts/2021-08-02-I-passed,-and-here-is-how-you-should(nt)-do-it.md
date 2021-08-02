@@ -3,7 +3,7 @@ layout: post
 title: "I passed OSCP, and here is how you should(nt) do it"
 ---
 
-Hello everyone, I have succesfully passed my second OSCP exam on the 15th of july ([https://www.credly.com/badges/17f00c63-bed3-42ea-bc6d-0a01d0219e1b](https://www.notion.so/17f00c63bed342eabc6d0a01d0219e1b)). I promised to make a post on the path I took during OSCP. But first here are some quick stats:
+Hello everyone, I have succesfully passed my second OSCP exam on the 15th of july ([https://www.credly.com/badges/17f00c63-bed3-42ea-bc6d-0a01d0219e1b](https://www.credly.com/badges/17f00c63-bed3-42ea-bc6d-0a01d0219e1b)). I promised to make a post on the path I took during OSCP. But first here are some quick stats:
 
 - 2 exam attempts.
     - First attempt 57,5 points (I assume), sadly realized I could have gotten this first attempt during my second attempt.
